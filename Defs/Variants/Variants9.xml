@@ -1,0 +1,23 @@
+<Defs>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Peacemaker</defName>
+    <label>True Neutral</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Advisor</defName>
+    <label>True Neutral</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Negotiator</defName>
+    <label>True Neutral</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Teacher</defName>
+    <label>True Neutral</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>

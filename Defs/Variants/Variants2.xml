@@ -1,0 +1,23 @@
+<Defs>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Helper</defName>
+    <label>Lawful Good</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Companion</defName>
+    <label>Lawful Good</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Host</defName>
+    <label>Lawful Good</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Caregiver</defName>
+    <label>Lawful Good</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>

@@ -1,0 +1,23 @@
+<Defs>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Enthusiast</defName>
+    <label>Chaotic Good</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Pathfinder</defName>
+    <label>Chaotic Good</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Opportunist</defName>
+    <label>Chaotic Good</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Adventurer</defName>
+    <label>Chaotic Good</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>

@@ -1,0 +1,23 @@
+<Defs>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Reformer</defName>
+    <label>Neutral Good</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Idealist</defName>
+    <label>Neutral Good</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Activist</defName>
+    <label>Neutral Good</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Perfectionist</defName>
+    <label>Neutral Good</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>

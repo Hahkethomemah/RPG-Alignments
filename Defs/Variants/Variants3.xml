@@ -1,0 +1,23 @@
+<Defs>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Achiever</defName>
+    <label>Chaotic Evil</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Charmer</defName>
+    <label>Chaotic Evil</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Professional</defName>
+    <label>Chaotic Evil</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Performer</defName>
+    <label>Chaotic Evil</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>

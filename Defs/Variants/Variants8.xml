@@ -1,0 +1,23 @@
+<Defs>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Challenger</defName>
+    <label>Lawful Evil</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Protector</defName>
+    <label>Lawful Evil</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Nonconformist</defName>
+    <label>Lawful Evil</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Diplomat</defName>
+    <label>Lawful Evil</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>
